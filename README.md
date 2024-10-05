@@ -1,17 +1,17 @@
 <h1 align="center">ツ Hello, I'm Nipun Basnayake</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nipunbasnayake&label=Profile%20views&color=0e75b6&style=flat" alt="nipunbasnayake" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NipunBasnayake&label=Profile%20views&color=0e75b6&style=flat" alt="NipunBasnayake" /> </p>
 
 <p align="center">
         <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=nipunbasnayake&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=NipunBasnayake&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
         </a><br>
-        <a href="https://github.com/nipunbasnayake/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunbasnayake&theme=algolia" alt="Top Langs" />
+        <a href="https://github.com/NipunBasnayake/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=algolia" alt="Top Langs" />
         </a><br> 
-        <a href="https://github.com/nipunbasnayake/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=nipunbasnayake&theme=algolia" alt="nipunbasnayake GitHub stats" />
+        <a href="https://github.com/NipunBasnayake/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=NipunBasnayake&theme=algolia" alt="NipunBasnayake GitHub stats" />
         </a>   
 </p>
 
