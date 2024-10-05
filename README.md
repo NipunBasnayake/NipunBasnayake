@@ -7,12 +7,12 @@
         <a href="https://git.io/streak-stats">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=NipunBasnayake&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
         </a><br>
-        <a href="https://github.com/NipunBasnayake/github-readme-stats">
+        <!--<a href="https://github.com/NipunBasnayake/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=algolia" alt="Top Langs" />
         </a><br> 
         <a href="https://github.com/NipunBasnayake/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=NipunBasnayake&theme=algolia" alt="NipunBasnayake GitHub stats" />
-        </a>   
+        </a> -->  
 </p>
 
 <h3 align="center">📫 How to reach me - nipunsathsara1999@gmail.com</h3>
