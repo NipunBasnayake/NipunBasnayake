@@ -1,19 +1,16 @@
 <h1 align="center">ツ Hello, I'm Nipun Basnayake</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">👨‍💻 Full-Stack Developer</h3>
+<h3 align="center">🎓 Undergraduate at UCSC</h3>
+<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NipunBasnayake&label=Profile%20views&color=0e75b6&style=flat" alt="NipunBasnayake" /> </p>
+<p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=NipunBasnayake&icon=1&color=1" alt="Visitor count"></a></p>
 
 <p align="center">
-        <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=NipunBasnayake&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-        </a><br>
-        <!--<a href="https://github.com/NipunBasnayake/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=algolia" alt="Top Langs" />
-        </a><br> 
-        <a href="https://github.com/NipunBasnayake/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=NipunBasnayake&theme=algolia" alt="NipunBasnayake GitHub stats" />
-        </a> -->  
+  <img src="https://github-readme-stats.vercel.app/api?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunBasnayake&theme=transparent&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
+
 
 <h3 align="center">📫 How to reach me - nipunsathsara1999@gmail.com</h3>
 <br>
