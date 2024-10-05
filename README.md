@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3 align="center">📫 How to reach me - nipunsathsara1999@gmail.com</h3>
+<h3 align="center">📫 How to reach me - <a href="mailto:nipunsathsara1999@gmail.com">nipunsathsara1999@gmail.com</a></h3>
 
 <p align="center"">
     <a href="https://linkedin.com/in/nipunbasnayake">
