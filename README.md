@@ -1,4 +1,4 @@
-<h1 align="center">ツ Hello, I'm Nipun Basnayake</h1>
+<h1 align="center">ツ Hello, I'm Nipun</h1>
 <h3 align="center">👨‍💻 Enthusiastic IT learner | 🎓 Undergraduate at UCSC</h3>
 <br>
 
