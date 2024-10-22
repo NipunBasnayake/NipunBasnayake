@@ -1,7 +1,6 @@
 <div align="center">
     <h1>ツ Hello, I'm Nipun</h1>
-    <h3>Enthusiastic IT learner | Undergraduate at UCSC</h3>
-    <h3>💻🎓</h3>
+    <h3 align="center">👨‍💻 Enthusiastic IT learner | 🎓 Undergraduate at UCSC</h3>
     <br>
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=NipunBasnayake&icon=1&color=1"
             alt="Visitor count"></a>
