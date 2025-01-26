@@ -1,9 +1,7 @@
 <div align="center">
     <h1>ツ Hello, I'm Nipun</h1>
     <h3 align="center">👨‍💻 Enthusiastic IT learner | 🎓 Undergraduate at UCSC</h3>
-    <br>
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=NipunBasnayake&icon=1&color=1"alt="Visitor count"></a>
-    <br/><br/>
+    <br><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunBasnayake&theme=transparent&hide_border=false" alt="GitHub Streak Stats" /><br/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     <hr>
