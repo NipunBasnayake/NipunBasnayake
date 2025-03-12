@@ -3,6 +3,11 @@
     <h3>👨‍💻 Enthusiastic IT Learner | 🎓 Undergraduate at UCSC</h3>
 </div>
 
+<div align="center">
+  
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake) 
+</div>
+
 ---
 
 <div align="center">
