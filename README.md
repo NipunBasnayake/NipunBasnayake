@@ -5,16 +5,17 @@
 </div>
 
 <div align="center">
-  
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake) 
+    
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake) 
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunBasnayake&theme=transparent&hide_border=false" alt="GitHub Streak Stats" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+
+![](https://nirzak-streak-stats.vercel.app/?user=NipunBasnayake&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ---
