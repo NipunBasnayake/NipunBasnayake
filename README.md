@@ -1,71 +1,110 @@
 <div align="center">
-    <h1>👋 Hi, I'm Nipun</h1>
-<!--     <h3>👨‍💻 Enthusiastic IT Learner | 🎓 Undergraduate at UCSC</h3> -->
-    <p><em>Software Engineering Undergraduate at University of Colombo School of Computing</em></p>
+  
+# 👨‍💻 Hi, I'm Nipun  
+*Software Engineering Undergraduate at University of Colombo School of Computing*
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake)
+&nbsp;&nbsp;&nbsp;
+<a href="https://nipunbasnayake.github.io/Portfolio-2025/" target="_blank" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-5c5c5c?style=flat&logo=dev.to&logoColor=white" alt="Portfolio" />
+</a>
 </div>
+
+<br/>
 
 <div align="center">
-    
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake) 
+    <img src="https://nirzak-streak-stats.vercel.app/?user=NipunBasnayake&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
 <div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=NipunBasnayake&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
-    <h3>🛠️ Technologies & Tools</h3>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
-    <img src="https://img.shields.io/badge/threejs-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS">
-    <br>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <!--<img src="https://img.shields.io/badge/javafx-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX"> -->
-    <br>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/jasper-%23D03B41.svg?style=for-the-badge&logo=jasper&logoColor=white" alt="Jasper">
-    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services">
-    <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" width="55" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" width="55" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" width="55" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" width="55" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" width="55" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" width="55" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" width="55" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" width="55" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" width="55" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" width="55" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" width="55" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" width="55" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" width="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" width="55" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" width="55" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" width="55" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" width="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" width="55" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Material UI" width="55" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" width="55" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" width="55" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" width="55" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" width="55" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" width="55" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" width="55" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" width="55" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" width="55" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" width="55" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" width="55" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" width="55" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" width="55" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" width="55" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" width="55" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" width="55" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform" width="55" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" width="55" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery" width="55" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" width="55" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" width="55" />
 </div>
 
----
+<br/>
 
-<div align="center">
-    <h3>📫 Let's Connect</h3>
-    <a href="mailto:nipunsathsara1999@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-    <a href="https://linkedin.com/in/nipunbasnayake">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="https://instagram.com/nipun__s">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    </a>
-    <a href="https://facebook.com/nipun.s99">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-    </a>
-</div>
+## 
 
-###
+<p align="center">
+  <em>Feel free to contact me for opportunities, collaboration, or just to say hi!</em>
+</p>
+
+<p align="center">
+  <a href="mailto:nipunsathsara1999@gmail.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/nipunbasnayake" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/94778806029" target="_blank" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://x.com/Nipun_Sathsara1" target="_blank" title="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Twitter" />
+  </a>
+  <a href="https://stackoverflow.com/users/21399029/nipun-sathsara" target="_blank" title="Stack Overflow">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <br/>
+  <a href="https://www.behance.net/nipunsathsara" target="_blank" title="Behance">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://facebook.com/nipun.s99" target="_blank" title="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/nipun__s" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
