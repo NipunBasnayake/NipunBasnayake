@@ -3,11 +3,11 @@
 # 👨‍💻 Hi, I'm Nipun  
 *Software Engineering Undergraduate at University of Colombo School of Computing*
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake)
-&nbsp;&nbsp;&nbsp;
-<a href="https://nipunbasnayake.github.io/Portfolio-2025/" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-5c5c5c?style=flat&logo=dev.to&logoColor=white" alt="Portfolio" />
-</a>
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/NipunBasnayake.svg)](https://user-badge.committers.top/sri_lanka/NipunBasnayake)
+  &nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nipunbasnayake/)
+  &nbsp;&nbsp;
+  [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://portfolio-2025-xi-brown.vercel.app/)
 </div>
 
 <br/>
@@ -78,33 +78,39 @@
 ## 
 
 <p align="center">
-  <em>Feel free to contact me for opportunities, collaboration, or just to say hi!</em>
+  <em>Feel free to contact me for opportunities, collaboration, or to say hi!</em>
 </p>
 
 <p align="center">
-  <a href="mailto:nipunsathsara1999@gmail.com" target="_blank" title="Email">
+  <a href="mailto:nipunsathsara1999@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/nipunbasnayake" target="_blank" title="LinkedIn">
+  &nbsp;
+  <a href="https://linkedin.com/in/nipunbasnayake" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/94778806029" target="_blank" title="WhatsApp">
+  &nbsp;
+  <a href="https://wa.me/94778806029" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://x.com/Nipun_Sathsara1" target="_blank" title="X (Twitter)">
+  &nbsp;
+  <a href="https://x.com/Nipun_Sathsara1" title="X (Twitter)">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Twitter" />
   </a>
-  <a href="https://stackoverflow.com/users/21399029/nipun-sathsara" target="_blank" title="Stack Overflow">
+  &nbsp;
+  <a href="https://stackoverflow.com/users/21399029/nipun-sathsara" title="Stack Overflow">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <br/>
-  <a href="https://www.behance.net/nipunsathsara" target="_blank" title="Behance">
+  <a href="https://www.behance.net/nipunsathsara" title="Behance">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-  <a href="https://facebook.com/nipun.s99" target="_blank" title="Facebook">
+  &nbsp;
+  <a href="https://facebook.com/nipun.s99" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/nipun__s" target="_blank" title="Instagram">
+  &nbsp;
+  <a href="https://instagram.com/nipun__s" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
