@@ -28,49 +28,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" width="55" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" width="55" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" width="55" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" width="55" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" width="55" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" width="55" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" width="55" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" width="55" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" width="55" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" width="55" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,py,php,js,ts,html,css,vscode,sass,xd" />
+
   <br/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" width="55" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" width="55" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" width="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" width="55" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" width="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" width="55" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" width="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" width="55" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Material UI" width="55" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" width="55" />
+
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,spring,angular,nodejs,threejs,express,bootstrap,tailwind,materialui,postman" />
+
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" width="55" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" width="55" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" width="55" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" width="55" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" width="55" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" width="55" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" width="55" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" width="55" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" width="55" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" width="55" />
+
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,sqlite,wordpress,linux,vite,kafka" />
+
   <br/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" width="55" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" width="55" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" width="55" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" width="55" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform" width="55" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" width="55" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery" width="55" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" width="55" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" width="55" />
+
+  <!-- DevOps & Others -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,azure,jquery,figma,vercel" />
+
 </div>
 
 <br/>
