@@ -30,26 +30,54 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,py,php,js,ts,html,css,vscode,sass,xd" />
-
-  <br/>
+  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" />
 
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,spring,angular,nodejs,threejs,express,bootstrap,tailwind,materialui,postman" />
-
-  <br/>
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />
 
   <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,sqlite,wordpress,linux,vite,kafka" />
-
-  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=wordpress" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" />
 
   <!-- DevOps & Others -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,azure,jquery,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" />
 
 </div>
-
-<br/>
 
 ## 
 
