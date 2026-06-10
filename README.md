@@ -7,7 +7,7 @@
   &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nipunbasnayake/)
   &nbsp;&nbsp;
-  [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://portfolio-2025-xi-brown.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://nipun-basnayake.vercel.app/)
 </div>
 
 <br/>
